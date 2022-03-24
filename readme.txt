@@ -4,6 +4,6 @@ Hello, world!
 using namespace std;
 int main()
 {
-    cout<<"GG EZ";
+    cout<<"It's no surprise, Nothing alive";
     return 0;
 }
