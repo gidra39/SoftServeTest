@@ -4,6 +4,6 @@ Hello, world!
 using namespace std;
 int main()
 {
-    cout<<"GG EZ";
+    cout<<"I don't think so";
     return 0;
 }
