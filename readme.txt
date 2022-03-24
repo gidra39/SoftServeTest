@@ -4,6 +4,5 @@ Hello, world!
 using namespace std;
 int main()
 {
-    cout<<"GG EZ";
-    return 0;
+  fuck
 }
